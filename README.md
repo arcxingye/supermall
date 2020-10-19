@@ -1,2 +1,4 @@
 # supermall
-Vue project
+Vue project  
+
+>npm i
